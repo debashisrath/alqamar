@@ -4,3 +4,4 @@ image/
 system/cache/
 system/logs/
 image/cache/
+system/storage/cache
